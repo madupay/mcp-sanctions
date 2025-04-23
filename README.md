@@ -4,6 +4,12 @@ A powerful sanctions screening API MCP Server, leveraging [OFAC API](https://www
 
 🎉 Ready for integration with Claude through the Model Context Protocol 🎉
 
+
+
+https://github.com/user-attachments/assets/41ea6318-5b17-4da1-8d6d-8cb60b5342ea
+
+
+
 ## Key Features
 - **Sanctions Screening**: Screen individuals and organizations against major global sanctions lists including OFAC SDN, UN, OFSI, and more
 - **Customizable Risk Threshold**: Set minimum risk scores to determine match relevance
